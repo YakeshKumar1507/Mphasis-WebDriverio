@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "resolveJsonModule":true,
+        "types": [
+            "node",
+            "@wdio/globals/types",
+            "@wdio/cucumber-framework"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "currentAge":"40",
+    "retirementAge":"60",
+    "currentIncome":"$100,000",
+    "spouseIncome":"$75,000",
+    "totalSavings":"$50,0000",
+    "annualSavings":"10",
+    "savingIncreaseRate":".25",
+    "socialBenfitNo":"N",
+    "socialBenfitYes":"Y",
+    "statusSingle":"S",
+    "statusMarried":"M",
+    "socialSecurityAmount":"4000"
+}
